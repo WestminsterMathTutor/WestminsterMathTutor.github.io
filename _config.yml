@@ -1,0 +1,16 @@
+# Site settings
+title: Westminster Math Tutor
+
+description: > # this means to ignore newlines until "baseurl:"
+  I tutor college level math courses out of Westminster, Colorado.
+baseurl: '' # the subpath of your site, e.g. /blog
+# Bad things happen if that is set to '/'
+
+url: "http://the-whiteboard.github.io" # the base hostname & protocol for your site
+
+github:
+  repo: 'https://github.com/WestminsterMathTutor'
+  user: 'WestminsterMathTutor'
+
+# Build settings
+markdown: kramdown
