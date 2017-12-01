@@ -1,4 +1,4 @@
-One-on-one tutoring is a very efficient and productive method for learning. The learning experience is tailored to the individual. A belief in the ability to master the mathematical concepts is a key component to progress. Everyone can learn the material if they believe they can.
+One-on-one tutoring is an efficient and productive method for learning. The learning experience is tailored to the individual. A belief in the ability to master mathematical concepts is a key component to progress. Everyone can learn the material if they believe they can.
 
 My goal when working with a student is to reinforce the lessons as taught in the classroom. Teaching a different technique or method may confuse the student and is only done if there is no better option. Finding the manner in which each individual grasps the material is interesting for me. After working with so many students, I still find each one unique. I learn as much from the students as they do from me! It is a pleasure to see the smile on a student's face when they "get it". After this happens a few times, their confidence increases and math becomes less of a dreaded subject.
 
