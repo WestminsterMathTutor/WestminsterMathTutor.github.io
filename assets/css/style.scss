@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+footer span.ribbon-inner {
+ p {
+   visibility: hidden;
+ }
+ background-color: inherit;
+}
