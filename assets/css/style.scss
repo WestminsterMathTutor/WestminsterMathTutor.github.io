@@ -2,13 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
-footer span.ribbon-inner {
- p {
-   visibility: hidden;
- }
- background-color: #7c334f;
+footer {
+  span.ribbon-inner {
+    p {
+      visibility: hidden;
+    }
+    background-color: #7c334f;
+  }
+  .octocat, p {
+   display: none;
+  }
 }
 
-#forkme_banner {
-  display: none;
+a#forkme_banner {
+  visibility: hidden;
 }
