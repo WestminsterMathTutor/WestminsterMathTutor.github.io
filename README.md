@@ -1,5 +1,5 @@
-Why Persoonal Tutoring
----
+Why Personal Tutoring
+===
 
 One-on-one tutoring is an efficient and productive method for learning. The learning experience is tailored to the individual. A belief in the ability to master mathematical concepts is a key component to progress. Everyone can learn the material if they believe they can.
 
@@ -7,7 +7,7 @@ My goal when working with a student is to reinforce the lessons as taught in the
 
 ---
 
-Qualifications
+### Qualifications ###
 ---
 
 - Tutoring for over 10 years
