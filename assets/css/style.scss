@@ -4,12 +4,9 @@
 @import "{{ site.theme }}";
 footer {
   span.ribbon-inner {
-    p {
-      visibility: hidden;
-    }
     background-color: #7c334f;
   }
-  .octocat, p {
+  span.octocat, p {
    visibility: hidden;
   }
 }
