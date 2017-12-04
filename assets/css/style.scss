@@ -14,3 +14,10 @@ footer {
 a#forkme_banner {
   visibility: hidden;
 }
+
+.header-level-1,
+.header-level-2,
+.header-level-3 {
+  border-bottom: 0px;
+  text-align: justify;
+}
