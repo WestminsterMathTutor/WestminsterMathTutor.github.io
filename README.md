@@ -27,9 +27,7 @@ Some students wish to learn the course material independently of taking the cour
 
 ---
 
-##### Contact Information:
+#### Contact Information:
 Renee Swindle
-
-cell: 303 469-9537
-
-email: reneeswindle@yahoo.com
+- cell (303)469-9537
+- email reneeswindle@yahoo.com
