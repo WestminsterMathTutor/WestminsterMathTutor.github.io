@@ -15,4 +15,4 @@ github:
   user: 'WestminsterMathTutor'
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
